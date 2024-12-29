@@ -23,8 +23,8 @@ A fun web game inspired by the classic Pok√©mon TV show segment "Who's That Pok√
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd [your-repo-name]
+git clone https://github.com/youpv/whosthatpokemon.git
+cd whosthatpokemon
 ```
 
 2. Install dependencies:
@@ -51,6 +51,14 @@ npm run dev
 
 This project is configured for easy deployment on Netlify. Simply connect your GitHub repository to Netlify and it will automatically deploy your application.
 
+## Author
+
+Created by Youp Verkooijen (contact@youp.dev)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contributing
 
-Feel free to open issues and pull requests!
+Feel free to open issues and pull requests! Please note that by contributing to this project, you agree to have your contributions licensed under the MIT License.
