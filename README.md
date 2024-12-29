@@ -12,7 +12,7 @@ A fun web game inspired by the classic Pok√©mon TV show segment "Who's That Pok√
 
 ## Technologies Used
 
-- Next.js 14
+- Next.js 15
 - TypeScript
 - Tailwind CSS
 - Framer Motion
